@@ -18,7 +18,7 @@ Just open the `index.html` file in any web browser to use the calculator.
 ---
 
 ## Screenshots
-![Calculator Screenshot]
+![Calculator Screenshot]- (1-calculator/Screenshot 2025-04-24 153640.png)
 
 ✨ **Internship:** InternPe (Web Development)  
 📁 **Task:** Calculator App (Task-1)
